@@ -3,6 +3,7 @@ Red
 Pink
 Orange
 Purple
+Green
 Blue
 
 All this colors are beautiful!
